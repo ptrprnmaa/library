@@ -1,5 +1,5 @@
 <?php
-include 'peminjam/header.php';
+include 'layout/header.php';
 ?>
 
 <div class="container">
@@ -34,5 +34,5 @@ include 'peminjam/header.php';
     </div>
 
 <?php
-include 'admin/footer.php';
+include 'layout/footer.php';
 ?>
